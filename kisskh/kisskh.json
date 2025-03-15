@@ -8,7 +8,7 @@
     "version": "1.0.0",
     "language": "Korean",
     "streamType": "HLS",
-    "quality": "1080p",
+    "quality": "360p",
     "baseUrl": "https://kisskh.co/",
     "searchBaseUrl": "https://kisskh.co/api/DramaList/Search?q=%s&type=0",
     "scriptUrl": "https://raw.githubusercontent.com/xibrox/sora-movie-module/refs/heads/main/kisskh/kisskh.js",
